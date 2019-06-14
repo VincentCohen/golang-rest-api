@@ -14,9 +14,9 @@ further divided in two factions, dogs and monkeys.
 **Requirements**
 - Create a RESTful API that allows you to create, view, list, update and delete dogs,
 monkeys and weapons.
-○ E.g. A list of dogs should be available at /api/cuddly_toys/dogs/
-○ E.g. A list of cuddly toys should be available at /api/cuddly_toys/
-○ E.g. A single weapon should be available at /api/weapons/1 (if a weapon
+   - E.g. A list of dogs should be available at /api/cuddly_toys/dogs/
+   - E.g. A list of cuddly toys should be available at /api/cuddly_toys/
+   - E.g. A single weapon should be available at /api/weapons/1 (if a weapon
 with that ID exists in the database)
 - The API should also generate a random list of ghosts whenever /ghosts/ is
 requested, with a maximum of 10 ghosts.
